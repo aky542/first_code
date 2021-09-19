@@ -24,7 +24,7 @@ void main() {
               Text('Flutter Developer',
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 20.0,
+                fontSize: 10.0,
                 letterSpacing: 2.0,
               ),),
              SizedBox(
